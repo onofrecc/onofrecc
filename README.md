@@ -1,9 +1,11 @@
 # Hi there, I'm OnO 👋
 
+## A junior full-stack web developer and a senior architect
+
 <!--
 **onofrecc/onofrecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## A junior full-stack web developer and a senior architect
+
 
 
 
