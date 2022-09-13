@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm OnO</h1>
+<h1 align="center">Hi there, I'm <strong>OnO<strong></h1>
 <h3 align="center">A junior full-stack web developer and a senior architect</h3>
 
 <h3 align="left">Languages and Tools:</h3>
