@@ -1,4 +1,4 @@
-### Hi there, I'm OnO 👋
+# Hi there, I'm OnO 👋
 
 <!--
 **onofrecc/onofrecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
