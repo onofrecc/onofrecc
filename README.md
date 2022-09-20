@@ -15,4 +15,4 @@ Full-Stack web developer with an international extensive background in architect
 <br/>
 
 ## Reach me
-<p>Send me an e-mail &nbsp<a href="mailto:onofrecc@gmail.com"><img src="images/Gmail_Logo_01.svg" height=20></a>, take a look at my LinkedIn profile <a href="www.linkedin.com/in/onofrecatalacastellar"><img src="images/LinkedIn_Logo_01.svg" height=20></a>&nbsp or check out my portfolio &nbsp<a href="https://troopl.com/onofrecc"><img src="images/Troopl_Logo.svg" height=20></a></p>
+<p>Send me an e-mail &nbsp<a href="mailto:onofrecc@gmail.com"><img src="images/Gmail_Logo_01.svg" height=20></a>, take a look at my LinkedIn profile <a href="http://www.linkedin.com/in/onofrecatalacastellar"><img src="images/LinkedIn_Logo_01.svg" height=20></a>&nbsp or check out my portfolio &nbsp<a href="https://troopl.com/onofrecc"><img src="images/Troopl_Logo.svg" height=20></a></p>
