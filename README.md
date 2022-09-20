@@ -9,10 +9,10 @@ Full-Stack web developer with an international extensive background in architect
 <br/>
 
 ## Web projects
-***[HomeBar](http://www.homebarapp.eu/)***. Discover the potential of the ingredients you have at home to prepare stylish cocktails.
+<img src="images/Gmail_Logo_01.svg" height=20>***[HomeBar](http://www.homebarapp.eu/)***. Discover the potential of the ingredients you have at home to prepare stylish cocktails.
 
 ***[Freddie’s Fiets](https://freddies-fiets.herokuapp.com/)***. Market place for bike rental.  
 <br/>
 
 ## Reach me
-<p>Send me an e-mail &nbsp<a href="onofrecc@gmail.com><img src="images/Gmail_Logo_01.svg" height=20></a>, take a look at my LinkedIn profile <img src="images/LinkedIn_Logo_01.svg" height=20>&nbsp or check out my portfolio &nbsp<img src="images/Troopl_Logo.svg" height=20></p>
+<p>Send me an e-mail &nbsp<a href="mailto:onofrecc@gmail.com"><img src="images/Gmail_Logo_01.svg" height=20></a>, take a look at my LinkedIn profile <img src="images/LinkedIn_Logo_01.svg" height=20>&nbsp or check out my portfolio &nbsp<img src="images/Troopl_Logo.svg" height=20></p>
