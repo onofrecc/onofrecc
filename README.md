@@ -7,7 +7,7 @@ Full-Stack developer with an international extensive background in architectural
 <p><img src="images/Adobe_InDesign_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Adobe_Illustrator_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Adobe_Photoshop_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Figma_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/AutoCad_Logo_01.svg" height=40>&nbsp &nbsp &nbsp<img src="images/SketchUp_Logo_02.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Enscape_Logo_01.png" height=50>&nbsp &nbsp &nbsp<img src="images/Revit_Logo.png" height=40></p>
 <br/><br/>
 ## Reach me
-<p>Send me an e-mail<img src="images/Gmail_Logo_01.svg" height=40></p>
+<p>Send me an e-mail &nbsp &nbsp<img src="images/Gmail_Logo_01.svg" height=40></p> 
 
 
 <img src="images/LinkedIn_Logo_01.svg" height=40>
