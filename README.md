@@ -3,38 +3,18 @@
 Full-stack developer with an international extensive background in architectural and urban design. Seeking to deliver coding excellence after completing one of the leading full-stack web development bootcamps in Europe, [Le Wagon in Amsterdam](https://www.lewagon.com/amsterdam/web-development-course). Meticulous, great team player and firm believer on innovation as the way to adapt and overcome the challenges of change.
 <br/><br/><br/>
 ## Tech Stack
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<img src="images/Ruby_Logo.svg" height=40> <img src="images/Ruby_On_Rails_Logo.svg" height=40> <img src="images/Postgresql_Logo_01.svg" height=40> <img src="images/SQL_Logo.png" height=40> <img src="images/HTML5_Logo.svg" height=40> <img src="images/CSS3_Logo.svg" height=40> <img src="images/JavaScript_Logo.svg" height=40> <img src="images/Bootstrap_Logo.svg" height=40> <img src="images/Git_Logo.svg" height=40> <img src="images/GitHub_Logo_01.svg" height=40> <img src="images/Heroku_Logo_01.svg" height=40>
 <br/><br/><br/>
+<img src="images/AutoCad_Logo_01.svg" height=40> <img src="images/SketchUp_Logo_01.svg" height=80> <img src="images/Enscape_Logo_01.svg" height=80> <img src="images/Revit_Logo.png" height=40> <img src="images/Adobe_InDesign_Logo.svg" height=40> <img src="images/Adobe_Illustrator_Logo.svg" height=40> <img src="images/Adobe_Photoshop_Logo.svg" height=40> <img src="images/Figma_Logo.svg" height=40>
 
 
-<img src="images/Adobe_InDesign_Logo.svg" height=40> <img src="images/Adobe_Photoshop_Logo.svg" height=40> <img src="images/Adobe_Illustrator_Logo.svg" height=40>
-
-<img src="images/AutoCad_Logo_01.svg" height=40> <img src="images/SketchUp_Logo_01.svg" height=80> <img src="images/Enscape_Logo_01.svg" height=80> <img src="images/Revit_Logo.png" height=40> <img src="images/Figma_Logo.svg" height=40>
 
 
-<img src="images/CSS3_Logo.svg" height=40>
-<img src="images/Bootstrap_Logo.svg" height=40>
-<img src="images/Git_Logo.svg" height=40>
-<img src="images/GitHub_Logo_01.svg" height=40>
-
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
 
 
 <img src="images/Gmail_Logo_01.svg" height=40>
 <img src="images/LinkedIn_Logo_01.svg" height=40>
-
+<img src="images/Troopl_Logo.svg" height=40>
 
 
 <p align="left">
