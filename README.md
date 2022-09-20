@@ -9,9 +9,9 @@ Full-Stack web developer with an international extensive background in architect
 <br/>
 
 ## Web projects
-<a href="http://www.homebarapp.eu/"><img src="images/Cocktail.png" height=20></a>***[HomeBar](http://www.homebarapp.eu/)***. Discover the potential of the ingredients you have at home to prepare stylish cocktails.
+<a href="http://www.homebarapp.eu/"><img src="images/Cocktail.jpg" height=40></a> ***[HomeBar](http://www.homebarapp.eu/)***. Discover the potential of the ingredients you have at home to prepare stylish cocktails.
 
-<a href="https://freddies-fiets.herokuapp.com/"><img src="images/Cocktail.png" height=20></a>***[Freddie’s Fiets](https://freddies-fiets.herokuapp.com/)***. Market place for bike rental.  
+<a href="https://freddies-fiets.herokuapp.com/"><img src="images/Freddie.png" height=40></a> ***[Freddie’s Fiets](https://freddies-fiets.herokuapp.com/)***. Market place for bike rental.  
 <br/>
 
 ## Reach me
