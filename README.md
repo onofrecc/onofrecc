@@ -4,7 +4,11 @@ Full-Stack developer with an international extensive background in architectural
 <br/><br/>
 ## Tech Stack
 <p><img src="images/Ruby_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Ruby_On_Rails_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Postgresql_Logo_01.svg" height=40>&nbsp &nbsp &nbsp<img src="images/SQL_Logo.png" height=40>&nbsp &nbsp &nbsp<img src="images/HTML5_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/CSS3_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/JavaScript_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Bootstrap_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Git_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/GitHub_Logo_01.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Heroku_Logo_01.svg" height=40></p>
-<p><img src="images/Adobe_InDesign_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Adobe_Illustrator_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Adobe_Photoshop_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Figma_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/AutoCad_Logo_01.svg" height=40>&nbsp &nbsp &nbsp<img src="images/SketchUp_Logo_01.svg" height=80>&nbsp &nbsp &nbsp<img src="images/Enscape_Logo_01.svg" height=80>&nbsp &nbsp &nbsp<img src="images/Revit_Logo.png" height=40></p>
+<p><img src="images/Adobe_InDesign_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Adobe_Illustrator_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Adobe_Photoshop_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Figma_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/AutoCad_Logo_01.svg" height=40>&nbsp &nbsp &nbsp<img src="images/SketchUp_Logo_02.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Enscape_Logo_01.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Revit_Logo.png" height=40></p>
+  
+  
+  
+  <img src="images/Enscape_Logo.png" height=50>&nbsp &nbsp &nbsp<img src="images/Enscape_Logo_01.png" height=60>&nbsp &nbsp &nbsp<img src="images/Enscape_Logo_02.png" height=40>&nbsp &nbsp &nbsp
 
 
 
