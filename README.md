@@ -8,7 +8,11 @@ Full-Stack web developer with an international extensive background in architect
 <p><img src="images/Adobe_InDesign_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Adobe_Illustrator_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Adobe_Photoshop_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Figma_Logo.svg" height=40>&nbsp &nbsp &nbsp<img src="images/AutoCad_Logo_01.svg" height=40>&nbsp &nbsp &nbsp<img src="images/SketchUp_Logo_02.svg" height=40>&nbsp &nbsp &nbsp<img src="images/Enscape_Logo_01.png" height=50>&nbsp &nbsp &nbsp<img src="images/Revit_Logo.png" height=40></p>
 <br/>
 
+## Web projects
+***[HomeBar](http://www.homebarapp.eu/)***. Discover the potential of the ingredients you have at home to prepare stylish cocktails.
+
+***[Freddie’s Fiets](https://freddies-fiets.herokuapp.com/)***. Market place for bike rental.  
+<br/>
+
 ## Reach me
-<p>- Send me an e-mail &nbsp<img src="images/Gmail_Logo_01.svg" height=30></p>
-<p>- Take a look at my LinkedIn profile &nbsp<img src="images/LinkedIn_Logo_01.svg" height=30></p>
-<p>- Check out my portfolio &nbsp<img src="images/Troopl_Logo.svg" height=30></p>
+<p>Send me an e-mail &nbsp<a href="onofrecc@gmail.com><img src="images/Gmail_Logo_01.svg" height=20></a>, take a look at my LinkedIn profile <img src="images/LinkedIn_Logo_01.svg" height=20>&nbsp or check out my portfolio &nbsp<img src="images/Troopl_Logo.svg" height=20></p>
