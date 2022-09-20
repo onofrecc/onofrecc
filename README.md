@@ -18,25 +18,22 @@ Full-stack developer with an international extensive background in architectural
 <br/><br/><br/>
 
 
-<img src="images/Adobe_InDesign_Logo.svg" height=40>
-<img src="images/Adobe_Photoshop_Logo.svg" height=40>
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
-<img src="images/AutoCad_Logo_01.svg" height=40>
-<img src="images/SketchUp_Logo_01.svg" height=40>
-<img src="images/Enscape_Logo_01.svg" height=40>
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
+<img src="images/Adobe_InDesign_Logo.svg" height=40> <img src="images/Adobe_Photoshop_Logo.svg" height=40> <img src="images/Adobe_Illustrator_Logo.svg" height=40>
+
+<img src="images/AutoCad_Logo_01.svg" height=40> <img src="images/SketchUp_Logo_01.svg" height=80> <img src="images/Enscape_Logo_01.svg" height=80> <img src="images/Revit_Logo.png" height=40> <img src="images/Figma_Logo.svg" height=40>
+
+
+<img src="images/CSS3_Logo.svg" height=40>
+<img src="images/Bootstrap_Logo.svg" height=40>
+<img src="images/Git_Logo.svg" height=40>
+<img src="images/GitHub_Logo_01.svg" height=40>
+
 <img src="images/Adobe_Illustrator_Logo.svg" height=40>
 <img src="images/Adobe_Illustrator_Logo.svg" height=40>
 
-<img src="images/Adobe_Illustrator_Logo.svg" height=40>
 
+<img src="images/Gmail_Logo_01.svg" height=40>
+<img src="images/LinkedIn_Logo_01.svg" height=40>
 
 
 
