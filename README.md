@@ -1,6 +1,6 @@
 # Hi there :wave: I'm OnO
 ### Junior Full-Stack Web Developer :computer: and Senior Architect :building_construction:
-Full-Stack web developer with an international extensive background in architectural and urban design. Seeking to deliver coding excellence after completing one of the leading full-stack web development bootcamps in Europe, [Le Wagon in Amsterdam](https://www.lewagon.com/amsterdam/web-development-course). Meticulous, great team player and firm believer on innovation as the way to adapt and overcome the challenges of change.
+Full-stack web developer with an international extensive background in architectural and urban design. Seeking to deliver coding excellence after completing one of the leading full-stack web development bootcamps in Europe, [Le Wagon in Amsterdam](https://www.lewagon.com/amsterdam/web-development-course). Meticulous, great team player and firm believer on innovation as the way to adapt and overcome the challenges of change.
 <br/><br/>
 
 ## Tech Stack
